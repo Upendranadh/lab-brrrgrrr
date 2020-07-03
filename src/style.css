@@ -147,6 +147,7 @@ body {
     height: 159px;
     background-color: #000000;
     color: white;
+
 }
 
 .Group-16 {
@@ -222,11 +223,12 @@ body {
     text-align: center;
     line-height: 42px;
 }
-.footers{
-	position: absolute;
-	top: 750px;
-	margin-left: 80px;
-	font-size: 18px;
-	font-family: Nunito Sans;
-	font-style: normal;
+
+.footers {
+    position: absolute;
+    top: 750px;
+    margin-left: 80px;
+    font-size: 18px;
+    font-family: Nunito Sans;
+    font-style: normal;
 }
